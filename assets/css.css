@@ -1,0 +1,36 @@
+/* Main Page */
+#image {
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  margin-top: 5%
+  }
+
+  .row{
+      color:  rgba(74, 174, 24, 0.694);
+    font-size: 32px;
+font-family: 'Quattrocento Sans', sans-serif;
+font-style: italic;
+  }
+  a:visited {
+    color: rgba(74, 174, 24, 0.694);
+  }
+
+
+/* ABOUT */
+
+    #typewriter {
+      position: fixed;
+      top: 80px;
+      right: 50px;
+      width: 400px;
+      height: 250px;
+
+    }
+
+    #bodyInfo{
+      position: relative;
+      width: 500px;
+
+    }
